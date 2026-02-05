@@ -2,7 +2,7 @@
 
 A high-end, responsive, and cryptographically secure password generator built with a focus on **Glassmorphism** design and superior user experience.
 
-![Password Generator Preview]()
+![Password Generator Preview](https://ebrahimvatankhah.github.io/passwordGenerator-js/)
 
 ## ✨ Features
 
